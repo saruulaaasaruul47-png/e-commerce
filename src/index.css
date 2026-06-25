@@ -1,0 +1,64 @@
+@import "tailwindcss";  
+@font-face {
+  font-family: 'shrikhand';
+  src: url('/fonts/Shrikhand-Regular.ttf') format('truetype');
+}
+.font-shrikhand {
+  font-family: 'Shrikhand', cursive;
+}
+@font-face{
+    font-family: "abhayaMedium";
+    src: url("/fonts/AbhayaLibre-Medium.ttf") format("truetype");
+}
+.font-abhayaMedium{
+    font-family: "abhayaMedium", cursive;
+}
+@font-face {
+    font-family: "abhayaExtrabold";
+    src: url("/fonts/AbhayaLibre-ExtraBold.ttf") format("truetype");
+}
+.font-abhayaExtrabold {
+    font-family: "abhayaExtrabold", cursive;
+}
+@font-face {
+    font-family: "abhayaBold";
+    src: url("/fonts/AbhayaLibre-Bold.ttf") format("truetype");
+}
+.font-abhayaBold {
+    font-family: "abhayaBold", cursive;
+}
+@font-face {
+    font-family: "abhayaMedium";
+    src: url("/fonts/AbhayaLibre-Medium.ttf") format("truetype");
+}
+.font-abhayaMedium {
+    font-family: "abhayaMedium", cursive;
+}
+@font-face {
+    font-family: "abhayaRegular";
+    src: url("/fonts/AbhayaLibre-Regular.ttf") format("truetype");
+}
+.font-abhayaRegular {
+    font-family: "abhayaRegular", cursive;
+}
+@font-face {
+    font-family: "abhayaSemibold";
+    src: url("/fonts/AbhayaLibre-SemiBold.ttf") format("truetype");
+}
+.font-abhayaSemibold {
+    font-family: "abhayaSemibold", cursive;
+}
+@font-face {
+    font-family: 'sansitaOne';
+    src: url("/fonts/SansitaOne.ttf") format("truetype");
+}
+.font-sansitaOne {
+    font-family: 'sansitaOne', cursive;
+}
+@font-face {
+    font-family: 'abrilFatface';
+    src: url("/fonts/AbrilFatface-Regular.ttf") format("truetype");
+}
+.font-abrilFatface {
+    font-family: 'abrilFatface', cursive;
+}

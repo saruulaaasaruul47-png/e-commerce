@@ -1,0 +1,15 @@
+.cardlist{
+    width: 100%;
+}
+
+.mySwiper{
+    width: 100%;
+    padding: 8px 0 34px;
+}
+
+.slide{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px 5px;
+}

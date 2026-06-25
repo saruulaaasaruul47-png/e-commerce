@@ -1,0 +1,716 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "img": "https://i.pinimg.com/736x/fa/f3/96/faf3965d7ba71b3ba5c0ab0a1ffb85ba.jpg",
+      "title": "Cleanser",
+      "category": "cleanser",
+      "price": "21$",
+      "skintype": "oily-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "2",
+      "img": "https://i.pinimg.com/1200x/16/51/52/165152642938b96c7d3672b6291dbc72.jpg",
+      "title": "Cleasing Foam",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "3",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "4",
+      "img": "https://i.pinimg.com/736x/3e/c6/eb/3ec6ebd2cb22daae7a5257d1d7ff7569.jpg",
+      "title": "Cleansing Oil",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "sensitive-skin",
+      "age": "20+",
+      "stock": 10
+    },
+    {
+      "id": "5",
+      "img": "https://i.pinimg.com/1200x/b4/f6/ab/b4f6ab2c9ca1a900d000ee1c0f79eb30.jpg",
+      "title": "Milk Cleanser",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "oily-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "6",
+      "img": "https://i.pinimg.com/736x/a6/6c/51/a66c51c459d9d6cf710dd246f6dd43c9.jpg",
+      "title": "Cream Cleansing",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "30+",
+      "stock": 10
+    },
+    {
+      "id": "7",
+      "img": "https://i.pinimg.com/736x/80/75/c7/8075c7af14a4ad6388e6dcb84210b0db.jpg",
+      "title": "Anua Cleansing combo",
+      "category": "cleanser",
+      "price": "40$",
+      "skintype": "combination-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "8",
+      "img": "https://i.pinimg.com/736x/c0/a6/46/c0a646fecb45e9d900d68295a92ea3cd.jpg",
+      "title": "Cleanser",
+      "category": "cleanser",
+      "price": "5$",
+      "skintype": "sensitive-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "9",
+      "img": "https://i.pinimg.com/736x/e3/96/82/e3968256ad64bd75de6e59b4b9f90ccc.jpg",
+      "title": "Cleansing Water",
+      "category": "cleanser",
+      "price": "17$",
+      "skintype": "oily-skin",
+      "age": "20+",
+      "stock": 10
+    },
+    {
+      "id": "10",
+      "img": "https://i.pinimg.com/736x/9d/19/41/9d1941b67ca3354d84b0f37083782e77.jpg",
+      "title": "Milk Toner",
+      "category": "toner",
+      "price": "22$",
+      "skintype": "dry-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "11",
+      "img": "https://i.pinimg.com/736x/5f/0c/8c/5f0c8cac11d9a22ed55ec0242b907c03.jpg",
+      "title": "Toner",
+      "category": "toner",
+      "price": "25$",
+      "skintype": "combination-skin",
+      "age": "30+",
+      "stock": 10
+    },
+    {
+      "id": "12",
+      "img": "https://i.pinimg.com/736x/b1/ec/b6/b1ecb67fe353271a2f14c769dbea839b.jpg",
+      "title": "Toner",
+      "category": "toner",
+      "price": "20$",
+      "skintype": "sensitive-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "13",
+      "img": "https://i.pinimg.com/736x/35/d6/b3/35d6b33fc661b76e721f9d2f75541c75.jpg",
+      "title": "Anua Toner Pad",
+      "category": "toner",
+      "price": "20$",
+      "skintype": "oily-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "14",
+      "img": "https://i.pinimg.com/1200x/93/44/4e/93444ecd275e00dd50a92af7b34ed425.jpg",
+      "title": "Toner Pad",
+      "category": "toner",
+      "price": "19$",
+      "skintype": "dry-skin",
+      "age": "20+",
+      "stock": 10
+    },
+    {
+      "id": "15",
+      "img": "https://i.pinimg.com/1200x/0b/3d/f1/0b3df101b2cd7dad5ab5bff7163fc535.jpg",
+      "title": "Multi pad",
+      "category": "toner",
+      "price": "16$",
+      "skintype": "combination-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "16",
+      "img": "https://i.pinimg.com/736x/af/6d/1d/af6d1d86283530f59bedb1229ddb5fde.jpg",
+      "title": "Toner Pad",
+      "category": "toner",
+      "price": "25$",
+      "skintype": "sensitive-skin",
+      "age": "30+",
+      "stock": 10
+    },
+    {
+      "id": "17",
+      "img": "https://i.pinimg.com/736x/b7/c9/6a/b7c96ad8e10a98a98be5d4c7197d726a.jpg",
+      "title": "Serum",
+      "category": "serum",
+      "price": "20$",
+      "skintype": "oily-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "18",
+      "img": "https://i.pinimg.com/736x/45/d5/6b/45d56b7d6133ef5ce21f93e993e9a2d4.jpg",
+      "title": "Serum",
+      "category": "serum",
+      "price": "19$",
+      "skintype": "dry-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "19",
+      "img": "https://i.pinimg.com/736x/30/74/06/30740612ca911331955eb253048c1323.jpg",
+      "title": "Serum",
+      "category": "serum",
+      "price": "25$",
+      "skintype": "combination-skin",
+      "age": "20+",
+      "stock": 10
+    },
+    {
+      "id": "20",
+      "img": "https://i.pinimg.com/736x/22/52/ff/2252ff750c2156385a5a5d96e2df9095.jpg",
+      "title": "Ampoule",
+      "category": "serum",
+      "price": "20$",
+      "skintype": "sensitive-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "21",
+      "img": "https://i.pinimg.com/736x/f0/90/1a/f0901a436d92f59f17c42310a81d1745.jpg",
+      "title": "Serum",
+      "category": "serum",
+      "price": "20$",
+      "skintype": "oily-skin",
+      "age": "30+",
+      "stock": 10
+    },
+    {
+      "id": "22",
+      "img": "https://i.pinimg.com/736x/85/4c/4e/854c4e5b2d4feb0a586208e25944a038.jpg",
+      "title": "Cream",
+      "category": "cream",
+      "price": "22$",
+      "skintype": "dry-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "23",
+      "img": "https://i.pinimg.com/1200x/ef/6b/04/ef6b0404c4bea68bd56f2d0ba053127e.jpg",
+      "title": "Cream",
+      "category": "cream",
+      "price": "16$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "24",
+      "img": "https://i.pinimg.com/736x/44/88/b8/4488b8e9053a3d42412f502dfda587c1.jpg",
+      "title": "Cream",
+      "category": "cream",
+      "price": "20$",
+      "skintype": "sensitive-skin",
+      "age": "20+",
+      "stock": 10
+    },
+    {
+      "id": "25",
+      "img": "https://i.pinimg.com/1200x/85/ea/9d/85ea9df88316d47b0c8344f21d8aba60.jpg",
+      "title": "Hand Cream",
+      "category": "cream",
+      "price": "20$",
+      "skintype": "oily-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "26",
+      "img": "https://i.pinimg.com/1200x/01/8a/a7/018aa72d8919c478272050c9fd0b6afc.jpg",
+      "title": "Cream",
+      "category": "cream",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "30+",
+      "stock": 10
+    },
+    {
+      "id": "27",
+      "img": "https://i.pinimg.com/1200x/73/e3/02/73e30202f364957930f376127d194daf.jpg",
+      "title": "Cream",
+      "category": "cream",
+      "price": "20$",
+      "skintype": "combination-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "28",
+      "img": "https://i.pinimg.com/1200x/13/32/d0/1332d097820ab4ed6173d8466caff3b6.jpg",
+      "title": "Mask",
+      "category": "mask",
+      "price": "5$",
+      "skintype": "sensitive-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "29",
+      "img": "https://i.pinimg.com/1200x/4a/48/0f/4a480f854f22b6dd616b89267ce52b37.jpg",
+      "title": "Sleeping Mask",
+      "category": "mask",
+      "price": "18$",
+      "skintype": "oily-skin",
+      "age": "20+",
+      "stock": 10
+    },
+    {
+      "id": "30",
+      "img": "https://i.pinimg.com/1200x/2a/57/95/2a5795fa7180aa0b4a7047b74a49385c.jpg",
+      "title": "Sleeping Mask",
+      "category": "mask",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "31",
+      "img": "https://i.pinimg.com/736x/01/0a/7b/010a7b766f221bc8359cc914fc97b1fd.jpg",
+      "title": "Lip Sleeping Mask",
+      "category": "mask",
+      "price": "20$",
+      "skintype": "combination-skin",
+      "age": "30+",
+      "stock": 10
+    },
+    {
+      "id": "32",
+      "img": "https://i.pinimg.com/1200x/03/33/97/0333976e6addaf55d3fa1585f9df3fb0.jpg",
+      "title": "Sleepiiing Mask",
+      "category": "mask",
+      "price": "20$",
+      "skintype": "sensitive-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "33",
+      "img": "https://i.pinimg.com/736x/ab/f3/4f/abf34f9873d80895e4bb6515110e844e.jpg",
+      "title": "Mask",
+      "category": "mask",
+      "price": "6$",
+      "skintype": "oily-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "34",
+      "img": "https://i.pinimg.com/736x/d3/92/4a/d3924ae05d757dd9d0690ad731bb3dbc.jpg",
+      "title": "Suncreen",
+      "category": "sunscreen",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "20+",
+      "stock": 10
+    },
+    {
+      "id": "35",
+      "img": "https://i.pinimg.com/1200x/3e/d8/52/3ed852bf641c3c6693aec2119041592b.jpg",
+      "title": "Suncreen",
+      "category": "sunscreen",
+      "price": "21$",
+      "skintype": "combination-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "36",
+      "img": "https://i.pinimg.com/736x/1c/53/fb/1c53fb1af817e4cd642c2910e45b4067.jpg",
+      "title": "SunCreen",
+      "category": "sunscreen",
+      "price": "20$",
+      "skintype": "sensitive-skin",
+      "age": "30+",
+      "stock": 10
+    },
+    {
+      "id": "37",
+      "img": "https://i.pinimg.com/1200x/40/ef/a2/40efa2a33e35b6a2acbe467c55184733.jpg",
+      "title": "Sunscreen",
+      "category": "sunscreen",
+      "price": "20$",
+      "skintype": "oily-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "38",
+      "img": "https://i.pinimg.com/736x/04/7b/7c/047b7c86821b4f5a8feeaa09566d3566.jpg",
+      "title": "Sun cream",
+      "category": "sunscreen",
+      "price": "18$",
+      "skintype": "dry-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "39",
+      "img": "https://i.pinimg.com/736x/0e/60/27/0e60272725d7d7bb0a47fd4c3275d958.jpg",
+      "title": "Sun Cream",
+      "category": "sunscreen",
+      "price": "20$",
+      "skintype": "combination-skin",
+      "age": "20+",
+      "stock": 10
+    },
+    {
+      "id": "40",
+      "img": "https://i.pinimg.com/1200x/61/cb/4a/61cb4a9c4d743157f16ee42578b4d73a.jpg",
+      "title": "Lip Gloss",
+      "category": "other",
+      "price": "20$",
+      "skintype": "sensitive-skin",
+      "age": "18+",
+      "stock": 10
+    },
+    {
+      "id": "41",
+      "img": "https://i.pinimg.com/736x/a7/bc/9b/a7bc9b81a8f654bd05bf22db719d0ed2.jpg",
+      "title": "Body Scrub",
+      "category": "other",
+      "price": "20$",
+      "skintype": "oily-skin",
+      "age": "30+",
+      "stock": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "cleanser",
+      "slug": "cleanser"
+    },
+    {
+      "id": "2",
+      "name": "toner",
+      "slug": "toner"
+    },
+    {
+      "id": "3",
+      "name": "serum",
+      "slug": "serum"
+    },
+    {
+      "id": "4",
+      "name": "cream",
+      "slug": "cream"
+    },
+    {
+      "id": "5",
+      "name": "mask",
+      "slug": "mask"
+    },
+    {
+      "id": "6",
+      "name": "sunscreen",
+      "slug": "sunscreen"
+    },
+    {
+      "id": "7",
+      "name": "other",
+      "slug": "other"
+    }
+  ],
+  "skintype": [
+    {
+      "id": "8",
+      "name": "Normal skin",
+      "slug": "normal-skin"
+    },
+    {
+      "id": "9",
+      "name": "Oily skin",
+      "slug": "oily-skin"
+    },
+    {
+      "id": "10",
+      "name": "Dry skin",
+      "slug": "dry-skin"
+    },
+    {
+      "id": "11",
+      "name": "Combination skin",
+      "slug": "combination-skin"
+    },
+    {
+      "id": "12",
+      "name": "Sensitive skin",
+      "slug": "sensitive-skin"
+    }
+  ],
+  "cart": [
+    {
+      "img": "https://i.pinimg.com/1200x/61/cb/4a/61cb4a9c4d743157f16ee42578b4d73a.jpg",
+      "title": "Lip Gloss",
+      "category": "other",
+      "price": "20$",
+      "skintype": "sensitive-skin",
+      "age": "18+",
+      "stock": 10,
+      "productID": "40",
+      "userID": "dOcgp0NWtOs",
+      "quantity": 4,
+      "id": "W6jY7_TTWKo"
+    },
+    {
+      "img": "https://i.pinimg.com/1200x/16/51/52/165152642938b96c7d3672b6291dbc72.jpg",
+      "title": "Cleasing Foam",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "15+",
+      "stock": 10,
+      "productID": "2",
+      "userID": "dOcgp0NWtOs",
+      "quantity": 1,
+      "id": "zsaJKRwUUBU"
+    },
+    {
+      "img": "https://i.pinimg.com/1200x/16/51/52/165152642938b96c7d3672b6291dbc72.jpg",
+      "title": "Cleasing Foam",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "15+",
+      "stock": 10,
+      "productID": "2",
+      "userID": "5x8fDG4afSA",
+      "quantity": 1,
+      "id": "FdSDYjpHzCU"
+    },
+    {
+      "img": "https://i.pinimg.com/1200x/16/51/52/165152642938b96c7d3672b6291dbc72.jpg",
+      "title": "Cleasing Foam",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "15+",
+      "stock": 10,
+      "productID": "2",
+      "userID": "taSVKFWQub8",
+      "quantity": 3,
+      "id": "DHJlhgnRTdw"
+    }
+  ],
+  "users": [
+    {
+      "name": "qswde",
+      "email": "saruulaaasaruul47@gmail.com",
+      "password": "sdf",
+      "id": "taSVKFWQub8"
+    },
+    {
+      "name": "Saruulaa",
+      "email": "saruul@gmail.com",
+      "password": "saruul",
+      "id": "dOcgp0NWtOs",
+      "phone": "",
+      "birthday": "2007-04-26"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": "UEJJyvpQkSo"
+    },
+    {
+      "name": "saruul saruul",
+      "email": "saruulaa@gmail.com",
+      "password": "123456",
+      "id": "0NfH3lfuPc0"
+    },
+    {
+      "name": "ssss ssss",
+      "email": "ssss@gmail.com",
+      "password": "12",
+      "id": "5x8fDG4afSA"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "iIa6k8veU5E",
+      "img": "https://i.pinimg.com/1200x/16/51/52/165152642938b96c7d3672b6291dbc72.jpg",
+      "title": "Cleasing Foam",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "15+",
+      "stock": 10
+    },
+    {
+      "id": "ZDFHHXF1z1k",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "9ZquppbaCsY",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "zcOBg7GHjGE",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "SZFdVyPWN4I",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "YLluXMlNC8Y",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "9zDOuljQvOE",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "f41kf0Tl4Ss",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "eb1_lfSxNds",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "PD1Ur2m6nOg",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "id": "qmMtbXk8L-Y",
+      "img": "https://i.pinimg.com/1200x/b8/57/7c/b8577ca1131cac3c42abf4cc74ea6692.jpg",
+      "title": "Cleansing Foam",
+      "category": "cleanser",
+      "price": "23$",
+      "skintype": "combination-skin",
+      "age": "25+",
+      "stock": 10
+    },
+    {
+      "img": "https://i.pinimg.com/736x/fa/f3/96/faf3965d7ba71b3ba5c0ab0a1ffb85ba.jpg",
+      "title": "Cleanser",
+      "category": "cleanser",
+      "price": "21$",
+      "skintype": "oily-skin",
+      "age": "18+",
+      "stock": 10,
+      "productID": "1",
+      "userID": "0NfH3lfuPc0",
+      "id": "gymqdoq9ooA"
+    },
+    {
+      "img": "https://i.pinimg.com/1200x/16/51/52/165152642938b96c7d3672b6291dbc72.jpg",
+      "title": "Cleasing Foam",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "15+",
+      "stock": 10,
+      "productID": "2",
+      "userID": "5x8fDG4afSA",
+      "id": "InVf6BKkDng"
+    },
+    {
+      "img": "https://i.pinimg.com/1200x/16/51/52/165152642938b96c7d3672b6291dbc72.jpg",
+      "title": "Cleasing Foam",
+      "category": "cleanser",
+      "price": "20$",
+      "skintype": "dry-skin",
+      "age": "15+",
+      "stock": 10,
+      "productID": "2",
+      "userID": "taSVKFWQub8",
+      "quantity": 3,
+      "id": "h6g5RICLQzk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
